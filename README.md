@@ -1,5 +1,5 @@
 <h1 align="center">👋 Débora Lobato Santos</h1>
-<h3 align="center">Desenvolvedora Full Stack</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
